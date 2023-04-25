@@ -1,0 +1,13 @@
+#!/bin/bash
+
+set -euC
+# set -o pipefail
+
+# exec 5>> /tmp/xmosh/shell-script-debug.out
+# BASH_XTRACEFD="5"
+# PS4='$LINENO: '
+# set -x
+
+cd "$(dirname "$0")"
+
+npx github-copilot-cli "$@"
