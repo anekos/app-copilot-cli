@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@githubnext/github-copilot-cli": "^0.1.33"
+    "@githubnext/github-copilot-cli": "^0.1.22"
   }
 }
