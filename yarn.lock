@@ -95,7 +95,7 @@
   resolved "https://registry.yarnpkg.com/@colors/colors/-/colors-1.5.0.tgz#bb504579c1cae923e6576a4f5da43d25f97bdbd9"
   integrity sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ==
 
-"@githubnext/github-copilot-cli@^0.1.22":
+"@githubnext/github-copilot-cli@*":
   version "0.1.36"
   resolved "https://registry.yarnpkg.com/@githubnext/github-copilot-cli/-/github-copilot-cli-0.1.36.tgz#f26930c36c7dc2b7fa41f9c3feb120d2d2ae186d"
   integrity sha512-qtiwjheqDJQkMoWZqjOpPWhl4DCcg3+Zu5+etUrDw5g2aieMKRz40rkuD8gPEOMkhQitPMnxGA5OSodFs5KYUA==
